@@ -1,0 +1,96 @@
+Gamer
+Substantivo
+Pessoa que joga regularmente videogames
+Videogame
+Substantivo
+Dispositivo eletronico de entretenimento
+Analisar
+Verbo
+Examinar de forma detalhada
+Procrastinar
+Verbo
+Adiar ou postergar uma tarefa
+Computador
+Substantivo
+Dispositivo eletronico programavel capaz de processar, armazenar e recuperar dados
+Viajar
+Verbo
+Deslocar-se de um lugar para outro
+Implementar
+Verbo
+Colocar em pratica
+Desenvolvedor
+Substantivo
+Profissional responsavel por criar e programar softwares
+Personalizar
+Verbo
+Adaptar algo as preferencias ou necessidades individuais
+Gato
+Substantivo
+Mamifero felino domestico
+Cachorro
+Substantivo
+Mamifero canino domestico
+Dormir
+Verbo
+Entrar em estado de repouso caracterizado pela perda de consciencia parcial
+Comer
+Verbo
+Ingerir alimentos para nutrir o corpo
+Academia
+Substantivo
+Local destinado a pratica de atividades fisicas e exercicios de fortalecimento
+Faculdade
+Substantivo
+Local para se capacitar academicamente em diversas areas do conhecimento
+Correr
+Verbo
+Movimentar-se rapidamente com passos largos e acelerados, geralmente em ritmo mais intenso que o caminhar
+Quero
+Verbo 
+Desejo realizar algo
+Aprender
+Verbo 
+Adquirir conhecimento ou habilidade em algo
+Programar
+Verbo 
+Definir uma sequencia de passos que um computador deve seguir
+Estudar
+Verbo     
+Aprender algo de forma aprofundada
+Requer
+Verbo
+Necessitar ou exigir algo
+Empenho
+Substantivo
+Esforço ao realizar uma tarefa
+Preciso
+Verbo 
+Necessitar ou ter a necessidade de algo
+Comprar
+Verbo 
+Adquirir algo mediante pagamento
+Um
+Artigo indefinido
+Indica uma unidade de algo
+Novo
+Adjetivo
+Recente ou que nunca foi usado
+Ideias
+Substantivo
+Conceitos ou pensamentos que surgem na mente
+Transformam
+Verbo 
+Mudar a forma ou natureza de algo
+Realidades
+Substantivo
+O estado de coisas como realmente são
+Paisagens
+Substantivo
+Extensoes de terreno que podem ser observadas ou apreciadas
+Restauram
+Verbo 
+Fazer voltar ao estado original
+Energias
+Substantivo
+Capacidade de realizar trabalho ou força vital

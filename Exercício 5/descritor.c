@@ -89,7 +89,7 @@ void removerElemento(Descritor *lista, int elemento){
         li = li->prox;
      }
      if(li == NULL){
-        printf("\nVocê digitou um número que não está presente na lista!\n");
+        printf("\nVoce digitou um numero que nao esta presente na lista!\n");
         return;
      }
      if (li == lista->inicio) {
@@ -114,12 +114,12 @@ void exibirLista(Descritor *lista){
 
     No *atual = lista->inicio;
 
-    printf("\nExibindo informações ao usuário:\n");
+    printf("\nExibindo informacoes ao usuario:\n");
     while (atual != NULL) {
         printf("%d ", atual->valor);
         atual = atual->prox;
     }
-    printf("Quantidade de elementos da lista: %d\n", lista->quantidade);
+    printf("\nQuantidade de elementos da lista: %d\n", lista->quantidade);
 }
 
 void liberaMemoria(Descritor *lista){

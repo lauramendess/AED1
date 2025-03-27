@@ -1,20 +1,20 @@
 #ifndef _DESCRITOR_H
 #define _DESCRITOR_H
 
-// Estrutura para representar um nó da lista encadeada
+// Estrutura para representar um nÃ³ da lista encadeada
 typedef struct no {
-    int valor; // Valor armazenado no nó
-    struct No *prox; // Ponteiro para o próximo nó
+    int valor; // Valor armazenado no nÃ³
+    struct No *prox; // Ponteiro para o prÃ³ximo nÃ³
 } No;
 
-// Estrutura para o nó descritor
+// Estrutura para o nÃ³ descritor
 typedef struct {
-    No *inicio; // Ponteiro para o início da lista
+    No *inicio; // Ponteiro para o inÃ­cio da lista
     No *fim; // Ponteiro para o final da lista
     int quantidade; // Quantidade de elementos na lista
 } Descritor;
 
-//Funções a serem implementadas:
+//FunÃ§Ãµes a serem implementadas:
 
 void inicializarLista(Descritor *lista);
 
